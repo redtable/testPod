@@ -1,0 +1,16 @@
+PODS:
+  - TestPrivatePod (0.1.0)
+
+DEPENDENCIES:
+  - TestPrivatePod (from `../`)
+
+EXTERNAL SOURCES:
+  TestPrivatePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPrivatePod: 5465eec93406df986b0b1abf5a1576af7d70abef
+
+PODFILE CHECKSUM: d34a06f11131132180942f3251f75ac3288ef255
+
+COCOAPODS: 1.5.3
